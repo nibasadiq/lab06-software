@@ -1,0 +1,4 @@
+Lab 06 - Task 5: Vim Editor Practice 'sVim is a powerful command-line text editor in Linux.
+
+Modes in Vim: Normal mode and Insert mode.
+
